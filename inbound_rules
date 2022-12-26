@@ -1,0 +1,7 @@
+SSH (tcp/22) - anywhere
+HTTP (tcp/80) - anywhere
+Custom (tcp/9600) - anywhere
+Custom (udp/9600) - anywhere
+Custom (tcp/8081) - anywhere
+Custom (tcp/50041) - anywhere
+Custom (tcp/50042) - anywhere
